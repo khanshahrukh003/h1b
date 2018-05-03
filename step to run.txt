@@ -1,0 +1,10 @@
+1. copy and paste niit and mymenu in home dir in your ubantu or clourdera machine
+2. change the user name in dir path..
+like srk replace with user own home dir user name.
+
+/home/srk/niit/h1b.csv
+
+3. terminal home dir then type
+./MyMenu.sh
+
+run : 
